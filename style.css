@@ -1,12 +1,33 @@
  
 body {
-    background: #cccccc
+   
+    text-align: justify-all;
+}
+
+#tl75 {
+   width: 50%;
+}
+
+.principal{
+   background: #cccccc;
 }
 
  p {
-   	text-align: center;
+   	text-align: center
  }
 
- strong {
-    color: red;
+ .benefícios {
+    background: #FFFFFF;
  }
+
+.titulo-principal {
+    padding-left: 20px;
+}
+
+ h2 {
+    text-align: center;
+ }
+  
+  h3 {
+    text-align: center;
+  } 
